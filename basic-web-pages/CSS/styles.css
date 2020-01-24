@@ -10,12 +10,14 @@ h1 {
   padding: 0px;
   padding: 50px;
   border: 2px solid #5D6063;
-  background-color: #B2D6FF;
+  background-color: darkgrey;
   display: block;
+  color: black;
 }
 
 h2 {
   font-family: monospace;
+  color: black;
 }
 
 p {
@@ -24,7 +26,7 @@ p {
 }
 
 ul {
-  list-style-type: circle;
+
 }
 
 ol {
@@ -50,8 +52,8 @@ div {
 }
 
 .button {
-  color: #FFF;
-  background-color: #5995DA;
+  color: black;
+  background-color: darkgrey;
   font-family: monospace;
   font-weight: bold;
   padding: 10px;
@@ -61,9 +63,4 @@ div {
 
   width: 200px;
   margin: 100px auto;
-}
-
-.page {
-  width: 600px;
-  margin: 0 auto;
 }
